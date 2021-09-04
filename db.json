@@ -9,6 +9,6 @@
     { "id": 7, "name": "Jayesh Ghediya", "designation": "Software Engineer", "department":"IT","phone":"1242454567"  },
     { "id": 8, "name": "Yogesh Chauhan", "designation": "BDE", "department":"IT","phone":"1242450000"  },
     { "id": 9, "name": "Disha Nakum", "designation": "HR", "department":"IT","phone":"1242451111"  },
-    { "id": 10, "name": "Priya patel", "designation": "Software Engineer", "department":"IT","phone":"1242452222"  },
+    { "id": 10, "name": "Priya patel", "designation": "Software Engineer", "department":"IT","phone":"1242452222"  }
   ]
 }
