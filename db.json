@@ -2,6 +2,13 @@
   "users": [
     { "id": 1, "name": "Patel Divyesh", "designation": "Software Developer", "department":"IT","phone":"9292434309"},
     { "id": 2, "name": "Kuldeep Gohel", "designation": "Junior Software Developer", "department":"IT","phone":"4214241234" },
-    { "id": 3, "name": "Jay Ghediya", "designation": "Software Engineer", "department":"IT","phone":"1242454567"  }
+    { "id": 3, "name": "Jay Ghediya", "designation": "Software Engineer", "department":"IT","phone":"1242454567"  },
+    { "id": 4, "name": "Jay Patel", "designation": "Software Engineer", "department":"IT","phone":"1242454567"  },
+    { "id": 5, "name": "Nisha Chavada", "designation": "Hr", "department":"IT","phone":"1223454567"  },
+    { "id": 6, "name": "Payal Patel", "designation": "BDE", "department":"IT","phone":"1242451234"  },
+    { "id": 7, "name": "Jayesh Ghediya", "designation": "Software Engineer", "department":"IT","phone":"1242454567"  },
+    { "id": 8, "name": "Yogesh Chauhan", "designation": "BDE", "department":"IT","phone":"1242450000"  },
+    { "id": 9, "name": "Disha Nakum", "designation": "HR", "department":"IT","phone":"1242451111"  },
+    { "id": 10, "name": "Priya patel", "designation": "Software Engineer", "department":"IT","phone":"1242452222"  },
   ]
 }
