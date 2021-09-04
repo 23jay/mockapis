@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": 1, "name": "Post 1" },
-    { "id": 2, "name": "Post 2" },
-    { "id": 3, "name": "Post 3" }
+    { "id": 1, "name": "Patel Divyesh", "designation": "Software Developer", "department":"IT","phone":"9292434309"},
+    { "id": 2, "name": "Kuldeep Gohel", "designation": "Junior Software Developer", "department":"IT","phone":"4214241234" },
+    { "id": 3, "name": "Jay Ghediya", "designation": "Software Engineer", "department":"IT","phone":"1242454567"  }
   ]
 }
